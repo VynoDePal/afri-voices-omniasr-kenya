@@ -1,0 +1,21 @@
+# Core Python dependencies. Notebook setup cells apply stricter stage pins.
+torch
+torchaudio
+fairseq2
+omnilingual-asr
+pandas
+numpy
+pyarrow
+soundfile
+jiwer
+pyctcdecode
+kenlm
+ftfy>=6.2.0
+rapidfuzz>=3.6.0
+psutil
+huggingface-hub
+datasets
+kaggle
+kagglehub
+tqdm
+pyyaml

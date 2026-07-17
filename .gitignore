@@ -1,0 +1,48 @@
+# Credentials
+.env
+.env.*
+kaggle.json
+hf_token.json
+credentials*.json
+*token*.json
+
+# Competition and datasets
+/data/
+/audio/
+/test/
+/kaggle_test*/
+/dataset_caches/
+/caches/
+/reports/
+submission*.csv
+*.parquet
+*.tsv
+*.wav
+*.flac
+*.mp3
+*.webm
+
+# Models and language-model binaries
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.binary
+*.arpa
+*.klm
+
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+

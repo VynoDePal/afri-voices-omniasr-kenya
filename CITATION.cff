@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this experiment repository, please cite it and all upstream models and datasets."
+title: "Afri-Voices omniASR for six Kenyan languages"
+type: software
+authors:
+  - name: "VynoDePal"
+year: 2026
+license: Apache-2.0
+repository-code: "https://github.com/VynoDePal/afri-voices-omniasr-kenya"
+url: "https://huggingface.co/VynoDePal/omniASR-fine-tuning-6languageKenya"
+abstract: >-
+  Reproducible six-language East African ASR experiments using omniASR-CTC-1B,
+  balanced fine-tuning, LoRA, language/domain-routed KenLM, and audited edge inference.
+keywords:
+  - automatic speech recognition
+  - multilingual ASR
+  - KenLM
+  - LoRA
+  - East African languages
+

@@ -1,0 +1,9 @@
+Afri-Voices omniASR for six Kenyan languages
+Copyright 2026 VynoDePal
+
+This repository contains original experiment orchestration, sanitized notebooks,
+documentation, and aggregate result manifests. It builds on third-party software,
+models, and datasets listed in THIRD_PARTY_NOTICES.md. No third-party dataset,
+competition test content, model checkpoint, KenLM binary, or submission CSV is
+redistributed in this repository.
+
